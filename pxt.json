@@ -8,7 +8,9 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/zh/pxt-sonar-strings.json",
+        "_locales/zh/pxt-sonar-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
