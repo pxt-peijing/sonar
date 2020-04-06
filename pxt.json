@@ -10,7 +10,9 @@
         "README.md",
         "main.ts",
         "_locales/zh/pxt-sonar-strings.json",
-        "_locales/zh/pxt-sonar-jsdoc-strings.json"
+        "_locales/zh/pxt-sonar-jsdoc-strings.json",
+        "_locales/pxt-sonar-strings.json",
+        "_locales/pxt-sonar-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
