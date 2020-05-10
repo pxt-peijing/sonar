@@ -5,11 +5,6 @@
 
 通过扩展选择trig、echo连接到的引脚。
 
-
-## Charting the distance
-
-
-
 ## License
 MIT
 
